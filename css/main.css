@@ -103,3 +103,7 @@ h4{
 	vertical-align: middle;
 	text-align: center;
 }
+
+.masinf{
+	list-style: none ! important;
+}
